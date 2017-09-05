@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="63px" viewBox="0 0 69 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>bank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ie-100k-1440px" transform="translate(-690.000000, -798.000000)">
+            <g id="2-block" transform="translate(135.000000, 793.000000)">
+                <g id="bank" transform="translate(558.000000, 8.000000)">
+                    <rect id="Rectangle-4" fill="#80E27E" x="6.51724138" y="45.95625" width="10.862069" height="3.5625" rx="1.2825"></rect>
+                    <rect id="Rectangle-4-Copy" fill="#80E27E" x="45.6206897" y="45.95625" width="10.862069" height="3.5625" rx="1.2825"></rect>
+                    <path d="M0.362068966,38.475 L6.89261748,3.77679635 C7.28519849,1.69092932 9.3303949,0 11.4514972,0 L52.2780445,0 C54.4032632,0 56.4143012,1.7028672 56.7682948,3.79442798 L62.637931,38.475 L0.362068966,38.475 Z" id="Path-3" stroke="#80E27E" stroke-width="4.275" fill="#80E27E"></path>
+                    <rect id="Rectangle-3" stroke="#80E27E" stroke-width="4.275" x="0" y="38.475" width="63" height="18.525" rx="2.565"></rect>
+                    <polygon id="Path-2" fill="#FFFFFF" points="24.2586207 19.2375 32.9482759 5.7 32.2241379 16.03125 38.0172414 16.3875 29.3275862 32.0625 30.0517241 19.59375"></polygon>
+                    <g id="Group-3" transform="translate(22.810345, 46.668750)" fill="#80E27E">
+                        <ellipse id="Oval" cx="1.31093936" cy="1.246875" rx="1.31093936" ry="1.246875"></ellipse>
+                        <ellipse id="Oval-Copy" cx="5.5059453" cy="1.246875" rx="1.31093936" ry="1.246875"></ellipse>
+                        <ellipse id="Oval-Copy-2" cx="9.70095125" cy="1.246875" rx="1.31093936" ry="1.246875"></ellipse>
+                        <ellipse id="Oval-Copy-3" cx="13.8959572" cy="1.246875" rx="1.31093936" ry="1.246875"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
